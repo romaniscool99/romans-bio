@@ -35,7 +35,7 @@ opacity: .5;
     min-width: 350px;
     width: 35%;
     margin: 0 auto;
-    border: 3px solid #024ac5;
+    border: 3px solid #02c576;
     background-color: rgba(0, 0, 0, 0.5);
   border-radius: 20px;  
   backdrop-filter: blur(10px);
@@ -78,7 +78,7 @@ a {
 }
 
 a:hover {
-  color: #b8fffd;
+  color: #b8ffcd;
   transition: ease 0.2s;
 }
 
@@ -92,7 +92,7 @@ a:hover {
 #big-profile-pic:hover {
   scale: 1.2;
   transition: ease-in-out 0.3s;
-  box-shadow: 0 0 20px #ADD8E6, 0 0 30px #ADD8E6;
+  box-shadow: 0 0 20px #02c576, 0 0 30px #02c576;
 }
 .enter-popup {
     position: fixed;
